@@ -7,7 +7,7 @@
 
 ## References and Resources
 
- `Gemini for ` 
+ `Gemini for syntax ` 
 
 ## Verbal Collaboration
 
